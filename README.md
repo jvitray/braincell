@@ -1,2 +1,2 @@
 # braincell
-A dynamic Flashcard / Exam App
+A dynamic Flashcard / Exam Application
